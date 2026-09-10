@@ -85,3 +85,10 @@ Tout faux document entraîne :
 - Vérifié
 - Refusé
 - Suspendu
+## Badge affiché
+
+🟢 Identité Vérifiée
+
+🔵 Commerce Vérifié
+
+🟠 Premium Vérifié Magassa Express
